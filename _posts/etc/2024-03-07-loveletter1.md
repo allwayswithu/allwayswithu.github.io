@@ -2,7 +2,7 @@
 layout: post
 title: "융하야 사랑해"
 subtitle: "ILoveYou"
-category: etc
+category: etc..
 tag: loveletter
 ---
 
