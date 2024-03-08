@@ -281,11 +281,11 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /:name/
+    permalink:         /category/:name/
     output:            true
 
   featured_tags:
-    permalink:         /tag-:name/
+    permalink:         /tag/:name/
     output:            true
 
   projects:
@@ -419,6 +419,6 @@ jekyll_compose:
 
 feed:
   categories:
-    - Study
-    - Insight
-    - Etc
+    - study
+    - insight
+    - etc
