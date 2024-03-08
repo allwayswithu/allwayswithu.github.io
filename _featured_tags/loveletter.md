@@ -4,7 +4,7 @@ type: tag
 title: Loveletter
 slug: loveletter
 category: etc..
-sidebar: false
+sidebar: true
 description: >
    To.my lover
 ---
